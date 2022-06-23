@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" height="30">, I am Josh!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" height="30">
 
 ---
 
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
+I'm a Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
 I create web applications that simplify working experence for business and employees!
 
 <!-- I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge. -->
